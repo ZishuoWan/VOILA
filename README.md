@@ -1,13 +1,18 @@
 # VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language.
 
-Offical implementation of the [VOILA paper](https://arxiv.org/abs/2501.03482):
+Offical implementation of the [VOILA paper](https://doi.org/10.1609/aaai.v39i7.32805):
 
 ```
-@misc{wan2025voilacomplexityawareuniversalsegmentation,
-      title={VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language}, 
-      author={Zishuo Wan and Yu Gao and Wanyuan Pang and Dawei Ding},
+@article{Wan_2025,
+      title={VOILA: Complexity-Aware Universal Segmentation of CT Images by Voxel Interacting with Language},
+      volume={39},
+      DOI={10.1609/aaai.v39i7.32805},
+      number={7},
+      journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+      author={Wan, Zishuo and Gao, Yu and Pang, Wanyuan and Ding, Dawei},
       year={2025},
-}
+      month={Apr.},
+      pages={7482-7490} }
 ```
 
 ## Usage
