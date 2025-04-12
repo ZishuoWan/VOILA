@@ -29,6 +29,6 @@ python test.py
 ## Acknowledgements 
 [nnUNet-v1](https://github.com/MIC-DKFZ/nnUNet), 
 [PointRend](https://github.com/facebookresearch/detectron2/tree/9604f5995cc628619f0e4fd913453b4d7d61db3f/projects/PointRend), 
-[Detectron2](https://github.com/facebookresearch/detectron2/tree/9604f5995cc628619f0e4fd913453b4d7d61db3f), 
+[Detectron2](https://github.com/facebookresearch/detectron2/tree/9604f5995cc628619f0e4fd913453b4d7d61db3f)
 
 
